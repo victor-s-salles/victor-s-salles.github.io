@@ -1,0 +1,23 @@
+body
+{
+    background-color: #BFBDC1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    font-family: 'Merriweather', serif;
+}
+
+#foto
+{
+    border-radius: 50%;
+}
+
+.description
+{
+    background-color: #9c9aa3;
+    line-height: 30px;
+    padding: 20px;
+    font-size: 20px;           
+}
