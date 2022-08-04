@@ -34,7 +34,7 @@
 }
 body {
     background-color:rgb(209, 209, 209);
-    background-image:url(fundo.jpg);
+    background-image:url(fundo.gif);
     background-size: cover;
     /* background-size: auto; */
 }
