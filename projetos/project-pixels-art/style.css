@@ -1,0 +1,51 @@
+.color {
+    width:60px;
+    height:60px;
+    border: solid black 1px;
+    display: inline-block;
+    border-radius: 50px;
+}
+#black {
+    background-color: black;    
+}
+#red {
+    background-color:purple;    
+}
+#yellow {
+    background-color: yellow;    
+}
+#blue {
+    background-color: blue;    
+}
+.pixel {
+    width:40px;
+    height:40px;
+    border: solid black 1px;
+    display: inline-block;
+    background-color: white;
+    margin-bottom: -5px;
+}
+#clear-board{
+    padding: 8px;
+    margin: 5px;   
+}
+*{
+    text-align: center;
+}
+body {
+    background-color:rgb(209, 209, 209);
+    background-image:url(fundo.jpg);
+    background-size: cover;
+    /* background-size: auto; */
+}
+p {
+ display: inline-block;
+}
+#pixel-board {
+    border: solid black 10px;
+    display: inline-block;
+    border-radius: 5%;
+}
+button { 
+  border-radius: 5px;
+}
